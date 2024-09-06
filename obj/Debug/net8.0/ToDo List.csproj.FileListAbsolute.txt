@@ -1,0 +1,38 @@
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\appsettings.json
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.staticwebassets.runtime.json
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.exe
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.deps.json
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.runtimeconfig.json
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.pdb
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.AssemblyInfo.cs
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.RazorAssemblyInfo.cache
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.RazorAssemblyInfo.cs
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\staticwebassets\msbuild.ToDo List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDo List.props
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDo List.props
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDo List.props
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\scopedcss\bundle\ToDo List.styles.css
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\scopedcss\projectbundle\ToDo List.bundle.scp.css
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\refint\ToDo List.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.pdb
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.genruntimeconfig.cache
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ref\ToDo List.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.csproj.Up2Date
